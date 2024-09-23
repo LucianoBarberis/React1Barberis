@@ -1,0 +1,10 @@
+.cart {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 26px;
+    background-color: #46685b;
+    padding: 10px;
+    border-radius: 50px;
+    cursor: pointer;
+}
